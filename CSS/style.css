@@ -109,7 +109,7 @@ html{
 }
 
 .home{
-    background: linear-gradient(rgba(223, 171, 171, 0.3), #6fd8c6), url(/image/home-bg.jpg) no-repeat;
+    background: linear-gradient(rgba(223, 171, 171, 0.3), #6fd8c6), url(/image/home.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 
